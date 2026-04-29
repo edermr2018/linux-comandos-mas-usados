@@ -81,6 +81,7 @@ Ideal para:
 ```
 .
 ├── README.md                          # Este archivo
+├── Linux como base de DevOps.png.     # 
 ---
 
 ## Comandos por Categoría
