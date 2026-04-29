@@ -81,16 +81,6 @@ Ideal para:
 ```
 .
 ├── README.md                          # Este archivo
-├── COMANDOS_DE_LINUX.md              # Guía completa con ejemplos
-├── CHEATSHEET.md                     # Referencia rápida (próximamente)
-├── examples/
-│   ├── scripts_basicos/
-│   ├── automatizacion/
-│   └── monitoreo/
-├── CONTRIBUIR.md                     # Guía para contribuidores
-└── LICENSE                           # Licencia MIT
-```
-
 ---
 
 ## Comandos por Categoría
